@@ -1,0 +1,91 @@
+body{
+
+}
+
+.container{
+    display: flex;
+    text-align: center;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+
+.tagLine{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.titleLink a{
+    font-size: 40px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+
+.titleBlock{
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+}
+
+
+.navBar{
+    justify-content: center;
+}
+
+.nav-link{
+    color:black;
+}
+
+.servicesBlock{
+    border-bottom: 1px solid black ;
+    margin-bottom: 25px;
+}
+
+p{
+    text-align: justify;
+}
+
+.quote{
+    border-left: 2px solid blue;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+}
+
+
+.headshot img{
+    width: 300px;
+}
+
+i{
+    width:50px;
+}
+
+.list li{
+    margin-left:20px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.contactMe{
+    width: 125px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-bottom: 50px;
+
+}
+
+.contactMe a{
+    color: white;
+    text-decoration: none;
+      
+}
+
+.address{
+    text-align: justify;
+}
